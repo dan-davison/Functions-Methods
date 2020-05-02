@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\obj\Debug\netcoreapp3.1\Task5.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Functions & Methods\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
